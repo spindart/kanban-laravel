@@ -5,10 +5,10 @@ Simple Kanban with Laravel 8.12, Jquery and Blade template.
 
 ## Installation
 
-* database/sql.sql contain the script to create the structure database
-* composer update (inside the project folder)
-* composer install
-* npm install
-* cp .env.example .env
+* `composer update` (inside the project folder)
+* `composer install`
+* `npm install`
+* `cp .env.example .env`
 * update your database config in .env
-* start serve with the command php artisan serve
+* start a local server with the command - `php artisan serve`
+* `npm run watch`   -  to live view run laravel mix
