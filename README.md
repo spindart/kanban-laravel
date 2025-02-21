@@ -11,4 +11,4 @@ Simple Kanban with Laravel 8.12, Jquery and Blade template.
 * `cp .env.example .env`
 * update your database config in .env
 * start a local server with the command - `php artisan serve`
-* `npm run watch`   -  to live view run laravel mix
+* `npm run watch`   - to live view run laravel mix
